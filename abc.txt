@@ -1,0 +1,5 @@
+Word Count in Pig Latin// RazanSerreih_202110789
+In this Post, we learn how to write word count program using Pig Latin
+Assume we have data in the file like below
+This is a hadoop post hadoop is a bigdata technology
+and we want to generate output for count of each word like below
